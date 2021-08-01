@@ -1,0 +1,7 @@
+.app-header {
+    background-color: rgb(37, 139, 228);
+    min-height: 130px;
+    color: #f0ecec;
+    font-size: 2em;
+    padding: 20px;
+}
